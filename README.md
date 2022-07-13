@@ -1,5 +1,5 @@
 # projeto-serasa
-Implementação do projeto para o Serasa utilizando Java11/Spring, H2 database e SpringSecutiry + JWT.
+Implementação do projeto para o Serasa utilizando Java11/Spring, H2 database, Swagger e SpringSecutiry + JWT.
 
 ## Etapas para testar a aplicação:
 ####1) Criar um usuário na rota localhost:8080/usuario e com seguinte formato JSON:
