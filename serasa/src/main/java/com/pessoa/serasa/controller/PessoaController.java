@@ -39,7 +39,7 @@ public class PessoaController {
 	}
 
 	@GetMapping("{id}")
-	@ApiOperation("Buscar detalhes da pessoa por Id")
+	@ApiOperation("Buscar detalhes de pessoa por Id")
 	@ApiResponses({ @ApiResponse(code = 200, message = "Pessoa encontrada"),
 			@ApiResponse(code = 204, message = "Pessoa não encontrado para ID informado") })
 	public ResponseEntity<PessoaDTO> buscarPessoaPorId(@PathVariable("id") Long id) {

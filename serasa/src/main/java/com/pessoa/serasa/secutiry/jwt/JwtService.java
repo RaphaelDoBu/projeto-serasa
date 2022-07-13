@@ -12,7 +12,6 @@ import org.springframework.stereotype.Service;
 import com.pessoa.serasa.SerasaApplication;
 import com.pessoa.serasa.model.Usuario;
 
-import javax.xml.crypto.Data;
 import java.time.Instant;
 import java.time.LocalDateTime;
 import java.time.ZoneId;

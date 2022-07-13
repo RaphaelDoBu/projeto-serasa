@@ -1,6 +1,7 @@
 package com.pessoa.serasa.dto;
 
 public class TokenDTO {
+	
     private String login;
     
     private String token;
